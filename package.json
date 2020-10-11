@@ -1,0 +1,19 @@
+{
+  "name": "csye6225-fa19-lambda",
+  "version": "1.0.0",
+  "description": "Rository for lamda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetveera/csye6225-fa19-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetveera/csye6225-fa19-lambda/issues"
+  },
+  "homepage": "https://github.com/meetveera/csye6225-fa19-lambda#readme"
+}
